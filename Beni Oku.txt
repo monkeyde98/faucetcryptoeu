@@ -1,0 +1,20 @@
+Termuxu verimli kullanmak için gerekli programlar ¶
+=>Kiwi Browser(Google playden indiriniz) 
+=>Xplore(Google playden indiriniz) 
+=>Termux(Google playden indiriniz) 
+
+Termux kurum kodları ¶
+
+termux-setup-storage
+apt update
+apt upgrade
+apt install php
+apt install imagemagick
+apt install tesseract
+
+Not: sıralama önemli karşınıza Y/N tarzı seçimler çıkarsa Y basıp Enter değin.
+
+Herhangi bir sorun varsa bana youtube(termuxcu) veya telegramdan ulaş. 
+
+Ardından sizde kazanmaya başlayın. 
+Bol kazançlar 💵 

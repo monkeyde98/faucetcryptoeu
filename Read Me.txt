@@ -1,0 +1,21 @@
+Programs required to use Termux efficiently ¶
+
+=>Kiwi Browser(Download from Google Play) =>Xplore(Download from Google Play)
+=>Termux(Download from Google Play)
+
+Termux setup codes ¶
+
+termux-setup-storage
+apt update
+apt upgrade
+apt install php
+apt install imagemagick
+apt install tesseract
+
+Note: the order is important, if you come across Y/N style choices, press Y and press Enter.
+
+If you have any problems, reach me on youtube(termuxcu) or telegram.
+
+Then you start earning.
+
+Good luck 💵
